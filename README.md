@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phil Chou</h1>
+<h1 align="center">Hi 👋, I'm Phil!</h1>
 <h3 align="center">An EX Large Tech Technical Recruiter turned Data Scientist Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philemon-chou&label=Profile%20views&color=0e75b6&style=flat" alt="philemon-chou" /> </p>
