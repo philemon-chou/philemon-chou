@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philemon-chou" alt="philemon-chou" /></a> </p>
 
-- 🌱 I’m currently learning **Python and predictive modeling**
+- 🌱 I’m currently learning **Python and various modeling techniques. I find Ai/ML very intriguing so, I spend most of my time polishing up my skills in (but not limited to) data structure and algorithms, various classic modeling techniques, NLP, LLM, Image Processing, etc**
 
 - 📫 How to reach me **philemon.chou@gmail.com**
 
